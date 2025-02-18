@@ -13,9 +13,6 @@ A responsive landing page for Fylo, designed with HTML and CSS. The page showcas
 - **HTML5**
 - **CSS3**
 
-## 📷 Preview
-![Fylo Landing Page Preview](#)
-
 ## 📂 File Structure
 ```
 Fylo-Landing-Page/
